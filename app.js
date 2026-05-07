@@ -1,10 +1,1 @@
-let h=20;
-console.log(h);
-console.log("Hello World"); 
-console.log("Welcome to JavaScript");   
-console.log("This is a simple JavaScript program.");
-console.log("JavaScript is a versatile programming language.");
-console.log("You can use JavaScript for web development, server-side programming, and more.");
-console.log("JavaScript is widely used for creating interactive web pages.");
-console.log("With JavaScript, you can manipulate the DOM and create dynamic content.");
-console.log("JavaScript is supported by all modern web browsers.");
+// add new feature-button
